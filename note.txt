@@ -1,0 +1,10 @@
+accordion flush , id accordianflushexample class is used both is the name aka id declearation and also in the answer aka id call
+
+>id name er age # diye id call 
+	uttor er id proshno te call hoyeche 
+>data-bs represents java script works 
+>data-bs-toggle 
+>area-expanded true/false
+	 represents that if the field will be stay open or stay close 
+>area-controls and area-labelby are mainly labeling components
+
